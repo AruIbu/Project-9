@@ -1,0 +1,85 @@
+body{
+ background-image:url("https://static.vecteezy.com/system/resources/thumbnails/000/106/193/small/blurred-vector-background.jpg");
+ background-size: cover;
+ background-repeat:no-repeat;
+ background-position:center;
+ color:blue;
+ text-align: center;
+ font-family: 'Lobster', cursive;  
+}  
+img{
+    height: 300px;
+    width:300px;
+}
+img:hover{
+    border: 6px chartreuse dashed;
+}
+iframe:hover{
+border: 5px crimson ridge;
+}
+.u{
+    width: 100%;
+    background-color: white;
+    top: 0;
+    font-size: 40px;
+    list-style-type: none;
+}
+.b{
+    display: inline;
+    margin: 15px;
+    padding: 15px;   
+}
+.b:hover{
+    background-color: aqua;
+    color: burlywood;
+    size: 30px;
+}
+#m{
+    color: chartreuse;
+}
+h4{
+    color: blueviolet;
+}
+#p{
+    text-align: left;
+}
+#b{
+    text-align: left;
+}
+#v{
+    text-align: left;
+}
+#pp{
+text-align: left;
+}
+h1{
+color: darkgreen;
+}
+h2{
+color: yellow;
+}
+h4{ 
+    color: crimson;
+}
+h3{
+  color: aqua;
+}
+
+#pt:hover{
+    border: 7px coral dashed;
+}
+
+#d1,#d2{
+    width: 70%;
+    background-color: burlywood;
+    box-shadow:5px 5px 30px crimson;
+    border-radius:20px;
+    padding:20px;
+    float:none;
+}
+
+#d1 h1{
+    text-align:center;
+    font-size:40px;
+    text-shadow:3px 3px 10px yellow; 
+}
